@@ -23,14 +23,14 @@
 			isa = PBXGroup;
 			children = (
 				D53E2D4D24CC407A00185367 /* index.html */,
-				D53E2D5024CC407A00185367 /* craftwork.html */,
-				D53E2D5124CC407A00185367 /* images */,
-				D53E2D4B24CC407A00185367 /* jokes.html */,
-				D53E2D4F24CC407A00185367 /* lego.html */,
-				D53E2D4E24CC407A00185367 /* stories */,
-				D53E2D5324CC407A00185367 /* stories.html */,
 				D53E2D5224CC407A00185367 /* tfl.html */,
+				D53E2D4F24CC407A00185367 /* lego.html */,
+				D53E2D5324CC407A00185367 /* stories.html */,
+				D53E2D4E24CC407A00185367 /* stories */,
+				D53E2D5024CC407A00185367 /* craftwork.html */,
+				D53E2D4B24CC407A00185367 /* jokes.html */,
 				D53E2D5424CC407A00185367 /* travelogues.html */,
+				D53E2D5124CC407A00185367 /* images */,
 			);
 			sourceTree = "<group>";
 		};
