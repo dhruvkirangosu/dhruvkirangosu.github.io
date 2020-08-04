@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		D538481D24D9FB90008D530E /* craftwork */ = {isa = PBXFileReference; lastKnownFileType = folder; name = craftwork; path = ../craftwork; sourceTree = "<group>"; };
 		D53E2D4B24CC407A00185367 /* jokes.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = jokes.html; path = ../jokes.html; sourceTree = "<group>"; };
 		D53E2D4D24CC407A00185367 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = index.html; path = ../index.html; sourceTree = "<group>"; };
 		D53E2D4E24CC407A00185367 /* stories */ = {isa = PBXFileReference; lastKnownFileType = folder; name = stories; path = ../stories; sourceTree = "<group>"; };
@@ -29,6 +30,7 @@
 				D53E2D5324CC407A00185367 /* stories.html */,
 				D53E2D4E24CC407A00185367 /* stories */,
 				D53E2D5024CC407A00185367 /* craftwork.html */,
+				D538481D24D9FB90008D530E /* craftwork */,
 				D53E2D4B24CC407A00185367 /* jokes.html */,
 				D53E2D5424CC407A00185367 /* travelogues.html */,
 				D53E2D5624CCBB2C00185367 /* books.html */,
