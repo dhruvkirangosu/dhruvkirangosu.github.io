@@ -19,12 +19,14 @@
 		D53E2D5324CC407A00185367 /* stories.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = stories.html; path = ../stories.html; sourceTree = "<group>"; };
 		D53E2D5424CC407A00185367 /* travelogues.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = travelogues.html; path = ../travelogues.html; sourceTree = "<group>"; };
 		D53E2D5624CCBB2C00185367 /* books.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = books.html; path = ../books.html; sourceTree = "<group>"; };
+		D5971D15254DFA60000F53F5 /* blog.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = blog.html; path = ../blog.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		D5107A9324CC403500703BBD = {
 			isa = PBXGroup;
 			children = (
+				D5971D15254DFA60000F53F5 /* blog.html */,
 				D53E2D4D24CC407A00185367 /* index.html */,
 				D53E2D5224CC407A00185367 /* tfl.html */,
 				D53E2D4F24CC407A00185367 /* lego.html */,
